@@ -32,168 +32,168 @@
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.5,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.5,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.5,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.5,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.5,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.5,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "llama3.1-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.6,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.6,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.6,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.6,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.6,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.6,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "llama3.1-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.7,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.7,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.7,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.7,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.7,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.7,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.8,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.8,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.8,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.8,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.8,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 0.5,
       "confidently_wrong_threshold": 0.8,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p8.json"
     }
   ],
   "rows": [
@@ -212,7 +212,7 @@
       "confidence_gain_vs_baseline_pp": -3.6257221039829757,
       "lift_over_confidence_pp": 5.5944055944055995,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "llama3.1-8b",
@@ -229,7 +229,7 @@
       "confidence_gain_vs_baseline_pp": -12.963944856839873,
       "lift_over_confidence_pp": 29.268292682926834,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "llama3.1-8b",
@@ -246,7 +246,7 @@
       "confidence_gain_vs_baseline_pp": -14.130434782608695,
       "lift_over_confidence_pp": 41.798418972332016,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "llama3.1-8b",
@@ -263,7 +263,7 @@
       "confidence_gain_vs_baseline_pp": -1.553888548683402,
       "lift_over_confidence_pp": 3.5211267605633867,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "llama3.1-8b",
@@ -280,7 +280,7 @@
       "confidence_gain_vs_baseline_pp": 0.8318544809228112,
       "lift_over_confidence_pp": 11.22448979591837,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "llama3.1-8b",
@@ -297,7 +297,7 @@
       "confidence_gain_vs_baseline_pp": 10.927382053654034,
       "lift_over_confidence_pp": 17.021276595744673,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "meditron3-8b",
@@ -314,7 +314,7 @@
       "confidence_gain_vs_baseline_pp": 1.3123993558776192,
       "lift_over_confidence_pp": 0.7407407407407363,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "meditron3-8b",
@@ -331,7 +331,7 @@
       "confidence_gain_vs_baseline_pp": -3.837087480356205,
       "lift_over_confidence_pp": 19.277108433734934,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "meditron3-8b",
@@ -348,7 +348,7 @@
       "confidence_gain_vs_baseline_pp": -5.434782608695654,
       "lift_over_confidence_pp": 32.608695652173914,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "meditron3-8b",
@@ -365,7 +365,7 @@
       "confidence_gain_vs_baseline_pp": 8.40792838874681,
       "lift_over_confidence_pp": 0.44995610184371815,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "meditron3-8b",
@@ -382,7 +382,7 @@
       "confidence_gain_vs_baseline_pp": 14.777723497801665,
       "lift_over_confidence_pp": 4.49438202247191,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "meditron3-8b",
@@ -399,7 +399,7 @@
       "confidence_gain_vs_baseline_pp": 16.63296258847321,
       "lift_over_confidence_pp": 11.627906976744185,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "phi4-14b",
@@ -416,7 +416,7 @@
       "confidence_gain_vs_baseline_pp": -1.9181585677749358,
       "lift_over_confidence_pp": 6.241830065359477,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "phi4-14b",
@@ -433,7 +433,7 @@
       "confidence_gain_vs_baseline_pp": -5.434782608695649,
       "lift_over_confidence_pp": 28.26086956521739,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "phi4-14b",
@@ -450,7 +450,7 @@
       "confidence_gain_vs_baseline_pp": -9.949832775919731,
       "lift_over_confidence_pp": 44.62989840348332,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "phi4-14b",
@@ -467,7 +467,7 @@
       "confidence_gain_vs_baseline_pp": 1.6890835157960526,
       "lift_over_confidence_pp": 6.474820143884896,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "phi4-14b",
@@ -484,7 +484,7 @@
       "confidence_gain_vs_baseline_pp": -2.591128678085197,
       "lift_over_confidence_pp": 18.62373737373737,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "phi4-14b",
@@ -501,7 +501,7 @@
       "confidence_gain_vs_baseline_pp": 4.013377926421402,
       "lift_over_confidence_pp": 14.102564102564108,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-4b",
@@ -518,7 +518,7 @@
       "confidence_gain_vs_baseline_pp": -2.637681159420291,
       "lift_over_confidence_pp": 7.279279279279283,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-4b",
@@ -535,7 +535,7 @@
       "confidence_gain_vs_baseline_pp": -2.637681159420291,
       "lift_over_confidence_pp": 19.843971631205676,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-4b",
@@ -552,7 +552,7 @@
       "confidence_gain_vs_baseline_pp": -2.637681159420291,
       "lift_over_confidence_pp": 39.904761904761905,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-4b",
@@ -569,7 +569,7 @@
       "confidence_gain_vs_baseline_pp": 8.734196731421518,
       "lift_over_confidence_pp": -1.4184397163120477,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-4b",
@@ -586,7 +586,7 @@
       "confidence_gain_vs_baseline_pp": 8.734196731421518,
       "lift_over_confidence_pp": 6.737588652482273,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-4b",
@@ -603,7 +603,7 @@
       "confidence_gain_vs_baseline_pp": 8.734196731421518,
       "lift_over_confidence_pp": 18.439716312056742,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-8b",
@@ -620,7 +620,7 @@
       "confidence_gain_vs_baseline_pp": 2.1777674992290996,
       "lift_over_confidence_pp": 7.558257345491393,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-8b",
@@ -637,7 +637,7 @@
       "confidence_gain_vs_baseline_pp": -2.786771507863095,
       "lift_over_confidence_pp": 24.715487382483925,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-8b",
@@ -654,7 +654,7 @@
       "confidence_gain_vs_baseline_pp": -2.786771507863095,
       "lift_over_confidence_pp": 30.592294422081658,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-8b",
@@ -671,7 +671,7 @@
       "confidence_gain_vs_baseline_pp": 2.068462037637897,
       "lift_over_confidence_pp": 8.102345415778245,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-8b",
@@ -688,7 +688,7 @@
       "confidence_gain_vs_baseline_pp": 5.938003220611909,
       "lift_over_confidence_pp": 17.299006323396572,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3-8b",
@@ -705,7 +705,7 @@
       "confidence_gain_vs_baseline_pp": 5.938003220611909,
       "lift_over_confidence_pp": 18.518518518518523,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -722,7 +722,7 @@
       "confidence_gain_vs_baseline_pp": -2.2626441881100243,
       "lift_over_confidence_pp": 6.734693877551024,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -739,7 +739,7 @@
       "confidence_gain_vs_baseline_pp": -0.5928853754940677,
       "lift_over_confidence_pp": 20.158102766798415,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -756,7 +756,7 @@
       "confidence_gain_vs_baseline_pp": 10.869565217391308,
       "lift_over_confidence_pp": 14.964610717896864,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -773,7 +773,7 @@
       "confidence_gain_vs_baseline_pp": 6.967469502658751,
       "lift_over_confidence_pp": -0.7029490911087954,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -790,7 +790,7 @@
       "confidence_gain_vs_baseline_pp": 13.159111933395007,
       "lift_over_confidence_pp": 2.0933424845573145,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -807,7 +807,7 @@
       "confidence_gain_vs_baseline_pp": 16.69254658385093,
       "lift_over_confidence_pp": -0.13736263736263687,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p5.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p5.json"
     },
     {
       "model": "llama3.1-8b",
@@ -824,7 +824,7 @@
       "confidence_gain_vs_baseline_pp": -6.6544971788914715,
       "lift_over_confidence_pp": 12.977099236641221,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "llama3.1-8b",
@@ -841,7 +841,7 @@
       "confidence_gain_vs_baseline_pp": -11.260381045432341,
       "lift_over_confidence_pp": 33.70786516853933,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "llama3.1-8b",
@@ -858,7 +858,7 @@
       "confidence_gain_vs_baseline_pp": -8.21845174973489,
       "lift_over_confidence_pp": 41.463414634146346,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "llama3.1-8b",
@@ -875,7 +875,7 @@
       "confidence_gain_vs_baseline_pp": 6.50501672240803,
       "lift_over_confidence_pp": 2.3076923076923106,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "llama3.1-8b",
@@ -892,7 +892,7 @@
       "confidence_gain_vs_baseline_pp": 11.077186126038107,
       "lift_over_confidence_pp": 7.86516853932584,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "llama3.1-8b",
@@ -909,7 +909,7 @@
       "confidence_gain_vs_baseline_pp": 13.043478260869568,
       "lift_over_confidence_pp": 16.666666666666664,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "meditron3-8b",
@@ -926,7 +926,7 @@
       "confidence_gain_vs_baseline_pp": 0.161887141535616,
       "lift_over_confidence_pp": 6.732522796352586,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "meditron3-8b",
@@ -943,7 +943,7 @@
       "confidence_gain_vs_baseline_pp": -0.9019426456984281,
       "lift_over_confidence_pp": 19.14893617021277,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "meditron3-8b",
@@ -960,7 +960,7 @@
       "confidence_gain_vs_baseline_pp": -4.296066252587993,
       "lift_over_confidence_pp": 40.476190476190474,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "meditron3-8b",
@@ -977,7 +977,7 @@
       "confidence_gain_vs_baseline_pp": 5.068609312365091,
       "lift_over_confidence_pp": 4.108409321175277,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "meditron3-8b",
@@ -994,7 +994,7 @@
       "confidence_gain_vs_baseline_pp": 12.5,
       "lift_over_confidence_pp": 6.521739130434778,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "meditron3-8b",
@@ -1011,7 +1011,7 @@
       "confidence_gain_vs_baseline_pp": 19.021739130434778,
       "lift_over_confidence_pp": 4.34782608695653,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "phi4-14b",
@@ -1028,7 +1028,7 @@
       "confidence_gain_vs_baseline_pp": -3.158967391304346,
       "lift_over_confidence_pp": 10.15625,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "phi4-14b",
@@ -1045,7 +1045,7 @@
       "confidence_gain_vs_baseline_pp": -9.565217391304348,
       "lift_over_confidence_pp": 37.5,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "phi4-14b",
@@ -1062,7 +1062,7 @@
       "confidence_gain_vs_baseline_pp": -8.948779035139964,
       "lift_over_confidence_pp": 44.38356164383562,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "phi4-14b",
@@ -1079,7 +1079,7 @@
       "confidence_gain_vs_baseline_pp": 4.609500805152978,
       "lift_over_confidence_pp": 7.4074074074074066,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "phi4-14b",
@@ -1096,7 +1096,7 @@
       "confidence_gain_vs_baseline_pp": 4.131603553062179,
       "lift_over_confidence_pp": 13.624010398203945,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "phi4-14b",
@@ -1113,7 +1113,7 @@
       "confidence_gain_vs_baseline_pp": 6.81977559607293,
       "lift_over_confidence_pp": 19.727047146401986,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-4b",
@@ -1130,7 +1130,7 @@
       "confidence_gain_vs_baseline_pp": -1.9710144927536255,
       "lift_over_confidence_pp": 4.585585585585589,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-4b",
@@ -1147,7 +1147,7 @@
       "confidence_gain_vs_baseline_pp": -3.894275883640913,
       "lift_over_confidence_pp": 19.290958985389008,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-4b",
@@ -1164,7 +1164,7 @@
       "confidence_gain_vs_baseline_pp": -3.894275883640913,
       "lift_over_confidence_pp": 37.589928057553955,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-4b",
@@ -1181,7 +1181,7 @@
       "confidence_gain_vs_baseline_pp": 6.628955930198166,
       "lift_over_confidence_pp": 4.176670668267313,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-4b",
@@ -1198,7 +1198,7 @@
       "confidence_gain_vs_baseline_pp": 8.1685191238967,
       "lift_over_confidence_pp": 9.239593829935666,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-4b",
@@ -1215,7 +1215,7 @@
       "confidence_gain_vs_baseline_pp": 8.1685191238967,
       "lift_over_confidence_pp": 17.276144907723857,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-8b",
@@ -1232,7 +1232,7 @@
       "confidence_gain_vs_baseline_pp": 0.9409474367294002,
       "lift_over_confidence_pp": 13.749434644957038,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-8b",
@@ -1249,7 +1249,7 @@
       "confidence_gain_vs_baseline_pp": -1.419698314108253,
       "lift_over_confidence_pp": 23.549644576931904,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-8b",
@@ -1266,7 +1266,7 @@
       "confidence_gain_vs_baseline_pp": -1.419698314108253,
       "lift_over_confidence_pp": 27.50665483584739,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-8b",
@@ -1283,7 +1283,7 @@
       "confidence_gain_vs_baseline_pp": 2.9614019520851853,
       "lift_over_confidence_pp": 7.482993197278908,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-8b",
@@ -1300,7 +1300,7 @@
       "confidence_gain_vs_baseline_pp": 10.756952604778691,
       "lift_over_confidence_pp": 5.612612612612622,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3-8b",
@@ -1317,7 +1317,7 @@
       "confidence_gain_vs_baseline_pp": 10.756952604778691,
       "lift_over_confidence_pp": 10.917697358375333,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1334,7 +1334,7 @@
       "confidence_gain_vs_baseline_pp": -2.422861150070127,
       "lift_over_confidence_pp": 6.961639058413249,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1351,7 +1351,7 @@
       "confidence_gain_vs_baseline_pp": -8.141620937104266,
       "lift_over_confidence_pp": 30.391291556340107,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1368,7 +1368,7 @@
       "confidence_gain_vs_baseline_pp": -4.373706004140788,
       "lift_over_confidence_pp": 39.047619047619044,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1385,7 +1385,7 @@
       "confidence_gain_vs_baseline_pp": 9.192546583850936,
       "lift_over_confidence_pp": -3.214285714285714,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1402,7 +1402,7 @@
       "confidence_gain_vs_baseline_pp": 15.478260869565219,
       "lift_over_confidence_pp": -0.12499999999999734,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1419,7 +1419,7 @@
       "confidence_gain_vs_baseline_pp": 16.394927536231883,
       "lift_over_confidence_pp": 2.083333333333337,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p6.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p6.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1436,7 +1436,7 @@
       "confidence_gain_vs_baseline_pp": -1.6453245979749842,
       "lift_over_confidence_pp": 6.164383561643838,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1453,7 +1453,7 @@
       "confidence_gain_vs_baseline_pp": -2.8491436100131717,
       "lift_over_confidence_pp": 18.181818181818183,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1470,7 +1470,7 @@
       "confidence_gain_vs_baseline_pp": -2.7173913043478217,
       "lift_over_confidence_pp": 33.201581027667984,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1487,7 +1487,7 @@
       "confidence_gain_vs_baseline_pp": 4.1666666666666625,
       "lift_over_confidence_pp": 5.797101449275366,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1504,7 +1504,7 @@
       "confidence_gain_vs_baseline_pp": 7.4158485273492225,
       "lift_over_confidence_pp": 9.431977559607297,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1521,7 +1521,7 @@
       "confidence_gain_vs_baseline_pp": 9.849351639969484,
       "lift_over_confidence_pp": 18.915470494417864,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -1538,7 +1538,7 @@
       "confidence_gain_vs_baseline_pp": 1.6641679160419809,
       "lift_over_confidence_pp": 3.448275862068967,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -1555,7 +1555,7 @@
       "confidence_gain_vs_baseline_pp": -0.397381954184195,
       "lift_over_confidence_pp": 17.204301075268813,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -1572,7 +1572,7 @@
       "confidence_gain_vs_baseline_pp": -10.76604554865424,
       "lift_over_confidence_pp": 35.714285714285715,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -1589,7 +1589,7 @@
       "confidence_gain_vs_baseline_pp": 6.155565834104227,
       "lift_over_confidence_pp": 2.8368794326241176,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -1606,7 +1606,7 @@
       "confidence_gain_vs_baseline_pp": 7.0652173913043566,
       "lift_over_confidence_pp": 11.690821256038642,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -1623,7 +1623,7 @@
       "confidence_gain_vs_baseline_pp": 10.048028311425682,
       "lift_over_confidence_pp": 18.549280177187157,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1640,7 +1640,7 @@
       "confidence_gain_vs_baseline_pp": 0.5475645635828696,
       "lift_over_confidence_pp": 3.7593984962406015,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1657,7 +1657,7 @@
       "confidence_gain_vs_baseline_pp": -2.793065492570168,
       "lift_over_confidence_pp": 19.766309639727364,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1674,7 +1674,7 @@
       "confidence_gain_vs_baseline_pp": -10.694249649368864,
       "lift_over_confidence_pp": 50.0,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1691,7 +1691,7 @@
       "confidence_gain_vs_baseline_pp": 4.526281635301754,
       "lift_over_confidence_pp": 8.208955223880599,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1708,7 +1708,7 @@
       "confidence_gain_vs_baseline_pp": 2.536231884057971,
       "lift_over_confidence_pp": 18.39080459770115,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1725,7 +1725,7 @@
       "confidence_gain_vs_baseline_pp": 7.608695652173914,
       "lift_over_confidence_pp": 13.043478260869568,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1742,7 +1742,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 10.416666666666668,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1759,7 +1759,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 24.801587301587304,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1776,7 +1776,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 31.944444444444443,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1793,7 +1793,7 @@
       "confidence_gain_vs_baseline_pp": 4.612220916568743,
       "lift_over_confidence_pp": 1.199669056811914,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1810,7 +1810,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 10.448438634713142,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1827,7 +1827,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 20.355093256814914,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1844,7 +1844,7 @@
       "confidence_gain_vs_baseline_pp": 1.2077294685990392,
       "lift_over_confidence_pp": 7.638888888888884,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1861,7 +1861,7 @@
       "confidence_gain_vs_baseline_pp": 5.058114507102884,
       "lift_over_confidence_pp": 15.851791364703482,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1878,7 +1878,7 @@
       "confidence_gain_vs_baseline_pp": 5.422288855572221,
       "lift_over_confidence_pp": 20.717689935520045,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1895,7 +1895,7 @@
       "confidence_gain_vs_baseline_pp": 5.31400966183575,
       "lift_over_confidence_pp": 4.768842268842266,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1912,7 +1912,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 10.91563701824727,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1929,7 +1929,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 12.91524874412574,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1946,7 +1946,7 @@
       "confidence_gain_vs_baseline_pp": -2.072800808897873,
       "lift_over_confidence_pp": 11.516279069767442,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1963,7 +1963,7 @@
       "confidence_gain_vs_baseline_pp": 2.5496511003757383,
       "lift_over_confidence_pp": 26.72759339426006,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1980,7 +1980,7 @@
       "confidence_gain_vs_baseline_pp": 13.043478260869568,
       "lift_over_confidence_pp": 28.947368421052634,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1997,7 +1997,7 @@
       "confidence_gain_vs_baseline_pp": 10.62801932367149,
       "lift_over_confidence_pp": -1.0101010101010055,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2014,7 +2014,7 @@
       "confidence_gain_vs_baseline_pp": 14.596273291925465,
       "lift_over_confidence_pp": 1.5248796147672494,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2031,7 +2031,7 @@
       "confidence_gain_vs_baseline_pp": 16.861081654294797,
       "lift_over_confidence_pp": 2.4390243902439046,
       "source": "root_default",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -2048,7 +2048,7 @@
       "confidence_gain_vs_baseline_pp": -2.9519862370972816,
       "lift_over_confidence_pp": 8.930247106662497,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "llama3.1-8b",
@@ -2065,7 +2065,7 @@
       "confidence_gain_vs_baseline_pp": -5.564182194616979,
       "lift_over_confidence_pp": 26.190476190476193,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "llama3.1-8b",
@@ -2082,7 +2082,7 @@
       "confidence_gain_vs_baseline_pp": -2.7679474216380173,
       "lift_over_confidence_pp": 39.94186046511628,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "llama3.1-8b",
@@ -2099,7 +2099,7 @@
       "confidence_gain_vs_baseline_pp": 2.534965034965031,
       "lift_over_confidence_pp": 4.4685810643257495,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "llama3.1-8b",
@@ -2116,7 +2116,7 @@
       "confidence_gain_vs_baseline_pp": 3.5194174757281593,
       "lift_over_confidence_pp": 8.737864077669899,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "llama3.1-8b",
@@ -2133,7 +2133,7 @@
       "confidence_gain_vs_baseline_pp": 9.593023255813948,
       "lift_over_confidence_pp": 11.24031007751939,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\llama3.1-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/llama3.1-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "meditron3-8b",
@@ -2150,7 +2150,7 @@
       "confidence_gain_vs_baseline_pp": 2.4080267558528434,
       "lift_over_confidence_pp": 9.230769230769226,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "meditron3-8b",
@@ -2167,7 +2167,7 @@
       "confidence_gain_vs_baseline_pp": 1.1134676564156953,
       "lift_over_confidence_pp": 24.390243902439025,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "meditron3-8b",
@@ -2184,7 +2184,7 @@
       "confidence_gain_vs_baseline_pp": 12.15161649944258,
       "lift_over_confidence_pp": 33.333333333333336,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "meditron3-8b",
@@ -2201,7 +2201,7 @@
       "confidence_gain_vs_baseline_pp": 2.000147885241055,
       "lift_over_confidence_pp": 4.761904761904756,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "meditron3-8b",
@@ -2218,7 +2218,7 @@
       "confidence_gain_vs_baseline_pp": 3.454522738630683,
       "lift_over_confidence_pp": 5.747126436781613,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "meditron3-8b",
@@ -2235,7 +2235,7 @@
       "confidence_gain_vs_baseline_pp": 13.675088131609868,
       "lift_over_confidence_pp": 10.81081081081081,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\meditron3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/meditron3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "phi4-14b",
@@ -2252,7 +2252,7 @@
       "confidence_gain_vs_baseline_pp": 1.419698314108253,
       "lift_over_confidence_pp": 4.761904761904762,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "phi4-14b",
@@ -2269,7 +2269,7 @@
       "confidence_gain_vs_baseline_pp": -3.478260869565214,
       "lift_over_confidence_pp": 25.263157894736842,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "phi4-14b",
@@ -2286,7 +2286,7 @@
       "confidence_gain_vs_baseline_pp": -13.319530710835059,
       "lift_over_confidence_pp": 46.31185807656396,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "phi4-14b",
@@ -2303,7 +2303,7 @@
       "confidence_gain_vs_baseline_pp": 4.663891458526059,
       "lift_over_confidence_pp": 1.2056737588652444,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "phi4-14b",
@@ -2320,7 +2320,7 @@
       "confidence_gain_vs_baseline_pp": 8.09178743961353,
       "lift_over_confidence_pp": 7.777777777777784,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "phi4-14b",
@@ -2337,7 +2337,7 @@
       "confidence_gain_vs_baseline_pp": 13.869565217391312,
       "lift_over_confidence_pp": 12.0,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\phi4-14b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/phi4-14b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-4b",
@@ -2354,7 +2354,7 @@
       "confidence_gain_vs_baseline_pp": -1.210299105766266,
       "lift_over_confidence_pp": 5.195806352143078,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-4b",
@@ -2371,7 +2371,7 @@
       "confidence_gain_vs_baseline_pp": -1.210299105766266,
       "lift_over_confidence_pp": 19.156173107540887,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-4b",
@@ -2388,7 +2388,7 @@
       "confidence_gain_vs_baseline_pp": -1.210299105766266,
       "lift_over_confidence_pp": 33.541927409261575,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-4b",
@@ -2405,7 +2405,7 @@
       "confidence_gain_vs_baseline_pp": 6.176610599809584,
       "lift_over_confidence_pp": 2.039501932159715,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-4b",
@@ -2422,7 +2422,7 @@
       "confidence_gain_vs_baseline_pp": 6.176610599809584,
       "lift_over_confidence_pp": 11.875049054234355,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-4b",
@@ -2439,7 +2439,7 @@
       "confidence_gain_vs_baseline_pp": 6.176610599809584,
       "lift_over_confidence_pp": 19.68656075568913,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-4b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-4b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-8b",
@@ -2456,7 +2456,7 @@
       "confidence_gain_vs_baseline_pp": 3.1400966183574908,
       "lift_over_confidence_pp": 5.555555555555558,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-8b",
@@ -2473,7 +2473,7 @@
       "confidence_gain_vs_baseline_pp": 5.6551116333725115,
       "lift_over_confidence_pp": 9.11196911196911,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-8b",
@@ -2490,7 +2490,7 @@
       "confidence_gain_vs_baseline_pp": 8.56124357176251,
       "lift_over_confidence_pp": 18.668891360771223,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-8b",
@@ -2507,7 +2507,7 @@
       "confidence_gain_vs_baseline_pp": 5.978260869565222,
       "lift_over_confidence_pp": 5.7124722310377685,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-8b",
@@ -2524,7 +2524,7 @@
       "confidence_gain_vs_baseline_pp": 5.825705568268502,
       "lift_over_confidence_pp": 13.503455608718761,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3-8b",
@@ -2541,7 +2541,7 @@
       "confidence_gain_vs_baseline_pp": 5.825705568268502,
       "lift_over_confidence_pp": 17.543859649122805,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3-8b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3-8b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2558,7 +2558,7 @@
       "confidence_gain_vs_baseline_pp": -1.8650297153581519,
       "lift_over_confidence_pp": 8.501811689334666,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2575,7 +2575,7 @@
       "confidence_gain_vs_baseline_pp": -0.21851187808157868,
       "lift_over_confidence_pp": 10.544598834603313,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2592,7 +2592,7 @@
       "confidence_gain_vs_baseline_pp": 4.976555839727192,
       "lift_over_confidence_pp": 13.845538215286119,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2609,7 +2609,7 @@
       "confidence_gain_vs_baseline_pp": 8.208534621578101,
       "lift_over_confidence_pp": 2.355324074074072,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2626,7 +2626,7 @@
       "confidence_gain_vs_baseline_pp": 17.28260869565217,
       "lift_over_confidence_pp": 0.0,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p8.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2643,7 +2643,7 @@
       "confidence_gain_vs_baseline_pp": 19.341432225063937,
       "lift_over_confidence_pp": -0.08912655971479166,
       "source": "rerun",
-      "source_path": "D:\\Study\\UIUC\\Research\\Uncertainty\\results\\conf_threshold_sensitivity\\qwen3.5-9b_conflict_prediction_confthr_0p8.json"
+      "source_path": "results/conf_threshold_sensitivity/qwen3.5-9b_conflict_prediction_confthr_0p8.json"
     }
   ],
   "mean_rows": [

@@ -30,145 +30,145 @@
       "model": "llama3.1-8b",
       "alpha": 0.25,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 0.25,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 0.25,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 0.25,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 0.25,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 0.25,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "llama3.1-8b",
       "alpha": 0.5,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 0.5,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 0.5,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 0.5,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 0.5,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 0.5,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
       "alpha": 0.75,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 0.75,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 0.75,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 0.75,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 0.75,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 0.75,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "llama3.1-8b",
       "alpha": 1.0,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "meditron3-8b",
       "alpha": 1.0,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "phi4-14b",
       "alpha": 1.0,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-4b",
       "alpha": 1.0,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-8b",
       "alpha": 1.0,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3.5-9b",
       "alpha": 1.0,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
     }
   ],
   "rows": [
@@ -186,7 +186,7 @@
       "confidence_gain_vs_baseline_pp": -2.4378881987577596,
       "lift_over_confidence_pp": 2.1428571428571406,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "llama3.1-8b",
@@ -202,7 +202,7 @@
       "confidence_gain_vs_baseline_pp": -1.6304347826086918,
       "lift_over_confidence_pp": 9.137601528905876,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "llama3.1-8b",
@@ -218,7 +218,7 @@
       "confidence_gain_vs_baseline_pp": -2.7173913043478217,
       "lift_over_confidence_pp": 36.23188405797101,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "llama3.1-8b",
@@ -234,7 +234,7 @@
       "confidence_gain_vs_baseline_pp": 3.758420085731784,
       "lift_over_confidence_pp": 2.5821596244131384,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "llama3.1-8b",
@@ -250,7 +250,7 @@
       "confidence_gain_vs_baseline_pp": 7.45169082125604,
       "lift_over_confidence_pp": 12.222222222222223,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "llama3.1-8b",
@@ -266,7 +266,7 @@
       "confidence_gain_vs_baseline_pp": 18.105285592497864,
       "lift_over_confidence_pp": 9.80392156862745,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "meditron3-8b",
@@ -282,7 +282,7 @@
       "confidence_gain_vs_baseline_pp": 0.8212560386473444,
       "lift_over_confidence_pp": 3.7037037037037033,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "meditron3-8b",
@@ -298,7 +298,7 @@
       "confidence_gain_vs_baseline_pp": -1.1670480549199058,
       "lift_over_confidence_pp": 12.082866741321391,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "meditron3-8b",
@@ -314,7 +314,7 @@
       "confidence_gain_vs_baseline_pp": -9.45652173913043,
       "lift_over_confidence_pp": 37.5,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "meditron3-8b",
@@ -330,7 +330,7 @@
       "confidence_gain_vs_baseline_pp": 6.320726622989881,
       "lift_over_confidence_pp": 0.5196032120925786,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "meditron3-8b",
@@ -346,7 +346,7 @@
       "confidence_gain_vs_baseline_pp": 8.506350757205672,
       "lift_over_confidence_pp": 7.699182839632279,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "meditron3-8b",
@@ -362,7 +362,7 @@
       "confidence_gain_vs_baseline_pp": 10.048028311425682,
       "lift_over_confidence_pp": 18.491208167895635,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "phi4-14b",
@@ -378,7 +378,7 @@
       "confidence_gain_vs_baseline_pp": -2.7619387027797537,
       "lift_over_confidence_pp": 4.918032786885246,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "phi4-14b",
@@ -394,7 +394,7 @@
       "confidence_gain_vs_baseline_pp": -3.3887468030690537,
       "lift_over_confidence_pp": 17.647058823529417,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "phi4-14b",
@@ -410,7 +410,7 @@
       "confidence_gain_vs_baseline_pp": -10.694249649368864,
       "lift_over_confidence_pp": 46.774193548387096,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "phi4-14b",
@@ -426,7 +426,7 @@
       "confidence_gain_vs_baseline_pp": 4.526281635301754,
       "lift_over_confidence_pp": 5.223880597014929,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "phi4-14b",
@@ -442,7 +442,7 @@
       "confidence_gain_vs_baseline_pp": 1.7519181585677779,
       "lift_over_confidence_pp": 21.176470588235297,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "phi4-14b",
@@ -458,7 +458,7 @@
       "confidence_gain_vs_baseline_pp": 1.443335709194582,
       "lift_over_confidence_pp": 18.099698895951832,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-4b",
@@ -474,7 +474,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 8.333333333333337,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-4b",
@@ -490,7 +490,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 22.74904214559387,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-4b",
@@ -506,7 +506,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 31.944444444444443,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-4b",
@@ -522,7 +522,7 @@
       "confidence_gain_vs_baseline_pp": 4.612220916568743,
       "lift_over_confidence_pp": 3.378378378378377,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-4b",
@@ -538,7 +538,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 11.950744153082915,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-4b",
@@ -554,7 +554,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 20.230015082956253,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-8b",
@@ -570,7 +570,7 @@
       "confidence_gain_vs_baseline_pp": 0.7992327365728968,
       "lift_over_confidence_pp": 9.558823529411764,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-8b",
@@ -586,7 +586,7 @@
       "confidence_gain_vs_baseline_pp": 5.058114507102884,
       "lift_over_confidence_pp": 16.68101592767973,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-8b",
@@ -602,7 +602,7 @@
       "confidence_gain_vs_baseline_pp": 5.422288855572221,
       "lift_over_confidence_pp": 20.717689935520045,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-8b",
@@ -618,7 +618,7 @@
       "confidence_gain_vs_baseline_pp": 4.876414532459805,
       "lift_over_confidence_pp": 6.164383561643827,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-8b",
@@ -634,7 +634,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 10.992537912220168,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3-8b",
@@ -650,7 +650,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 13.024181205999385,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -666,7 +666,7 @@
       "confidence_gain_vs_baseline_pp": -2.072800808897873,
       "lift_over_confidence_pp": 6.2015503875969,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -682,7 +682,7 @@
       "confidence_gain_vs_baseline_pp": 2.5496511003757383,
       "lift_over_confidence_pp": 14.441195581546463,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -698,7 +698,7 @@
       "confidence_gain_vs_baseline_pp": 13.043478260869568,
       "lift_over_confidence_pp": 27.500000000000004,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -714,7 +714,7 @@
       "confidence_gain_vs_baseline_pp": 10.62801932367149,
       "lift_over_confidence_pp": 0.5847953216374324,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -730,7 +730,7 @@
       "confidence_gain_vs_baseline_pp": 14.596273291925465,
       "lift_over_confidence_pp": 1.6483516483516425,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -746,7 +746,7 @@
       "confidence_gain_vs_baseline_pp": 16.861081654294797,
       "lift_over_confidence_pp": 2.4390243902439046,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p25.json"
     },
     {
       "model": "llama3.1-8b",
@@ -762,7 +762,7 @@
       "confidence_gain_vs_baseline_pp": -1.6453245979749842,
       "lift_over_confidence_pp": 6.164383561643838,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -778,7 +778,7 @@
       "confidence_gain_vs_baseline_pp": -2.8491436100131717,
       "lift_over_confidence_pp": 18.181818181818183,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -794,7 +794,7 @@
       "confidence_gain_vs_baseline_pp": -2.7173913043478217,
       "lift_over_confidence_pp": 33.201581027667984,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -810,7 +810,7 @@
       "confidence_gain_vs_baseline_pp": 4.1666666666666625,
       "lift_over_confidence_pp": 5.797101449275366,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -826,7 +826,7 @@
       "confidence_gain_vs_baseline_pp": 7.4158485273492225,
       "lift_over_confidence_pp": 9.431977559607297,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -842,7 +842,7 @@
       "confidence_gain_vs_baseline_pp": 9.849351639969484,
       "lift_over_confidence_pp": 18.915470494417864,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/llama3.1-8b_conflict_prediction.json"
+      "source_path": "results/llama3.1-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -858,7 +858,7 @@
       "confidence_gain_vs_baseline_pp": 1.6641679160419809,
       "lift_over_confidence_pp": 3.448275862068967,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -874,7 +874,7 @@
       "confidence_gain_vs_baseline_pp": -0.397381954184195,
       "lift_over_confidence_pp": 17.204301075268813,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -890,7 +890,7 @@
       "confidence_gain_vs_baseline_pp": -10.76604554865424,
       "lift_over_confidence_pp": 35.714285714285715,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -906,7 +906,7 @@
       "confidence_gain_vs_baseline_pp": 6.155565834104227,
       "lift_over_confidence_pp": 2.8368794326241176,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -922,7 +922,7 @@
       "confidence_gain_vs_baseline_pp": 7.0652173913043566,
       "lift_over_confidence_pp": 11.690821256038642,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "meditron3-8b",
@@ -938,7 +938,7 @@
       "confidence_gain_vs_baseline_pp": 10.048028311425682,
       "lift_over_confidence_pp": 18.549280177187157,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/meditron3-8b_conflict_prediction.json"
+      "source_path": "results/meditron3-8b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -954,7 +954,7 @@
       "confidence_gain_vs_baseline_pp": 0.5475645635828696,
       "lift_over_confidence_pp": 3.7593984962406015,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -970,7 +970,7 @@
       "confidence_gain_vs_baseline_pp": -2.793065492570168,
       "lift_over_confidence_pp": 19.766309639727364,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -986,7 +986,7 @@
       "confidence_gain_vs_baseline_pp": -10.694249649368864,
       "lift_over_confidence_pp": 50.0,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1002,7 +1002,7 @@
       "confidence_gain_vs_baseline_pp": 4.526281635301754,
       "lift_over_confidence_pp": 8.208955223880599,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1018,7 +1018,7 @@
       "confidence_gain_vs_baseline_pp": 2.536231884057971,
       "lift_over_confidence_pp": 18.39080459770115,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "phi4-14b",
@@ -1034,7 +1034,7 @@
       "confidence_gain_vs_baseline_pp": 7.608695652173914,
       "lift_over_confidence_pp": 13.043478260869568,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/phi4-14b_conflict_prediction.json"
+      "source_path": "results/phi4-14b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1050,7 +1050,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 10.416666666666668,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1066,7 +1066,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 24.801587301587304,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1082,7 +1082,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 31.944444444444443,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1098,7 +1098,7 @@
       "confidence_gain_vs_baseline_pp": 4.612220916568743,
       "lift_over_confidence_pp": 1.199669056811914,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1114,7 +1114,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 10.448438634713142,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-4b",
@@ -1130,7 +1130,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 20.355093256814914,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-4b_conflict_prediction.json"
+      "source_path": "results/qwen3-4b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1146,7 +1146,7 @@
       "confidence_gain_vs_baseline_pp": 1.2077294685990392,
       "lift_over_confidence_pp": 7.638888888888884,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1162,7 +1162,7 @@
       "confidence_gain_vs_baseline_pp": 5.058114507102884,
       "lift_over_confidence_pp": 15.851791364703482,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1178,7 +1178,7 @@
       "confidence_gain_vs_baseline_pp": 5.422288855572221,
       "lift_over_confidence_pp": 20.717689935520045,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1194,7 +1194,7 @@
       "confidence_gain_vs_baseline_pp": 5.31400966183575,
       "lift_over_confidence_pp": 4.768842268842266,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1210,7 +1210,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 10.91563701824727,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3-8b",
@@ -1226,7 +1226,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 12.91524874412574,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3-8b_conflict_prediction.json"
+      "source_path": "results/qwen3-8b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1242,7 +1242,7 @@
       "confidence_gain_vs_baseline_pp": -2.072800808897873,
       "lift_over_confidence_pp": 11.516279069767442,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1258,7 +1258,7 @@
       "confidence_gain_vs_baseline_pp": 2.5496511003757383,
       "lift_over_confidence_pp": 26.72759339426006,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1274,7 +1274,7 @@
       "confidence_gain_vs_baseline_pp": 13.043478260869568,
       "lift_over_confidence_pp": 28.947368421052634,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1290,7 +1290,7 @@
       "confidence_gain_vs_baseline_pp": 10.62801932367149,
       "lift_over_confidence_pp": -1.0101010101010055,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1306,7 +1306,7 @@
       "confidence_gain_vs_baseline_pp": 14.596273291925465,
       "lift_over_confidence_pp": 1.5248796147672494,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1322,7 +1322,7 @@
       "confidence_gain_vs_baseline_pp": 16.861081654294797,
       "lift_over_confidence_pp": 2.4390243902439046,
       "source": "root_alpha_0.5",
-      "source_path": "/home/yikunh2/Uncertainty/results/qwen3.5-9b_conflict_prediction.json"
+      "source_path": "results/qwen3.5-9b_conflict_prediction.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1338,7 +1338,7 @@
       "confidence_gain_vs_baseline_pp": -1.6453245979749842,
       "lift_over_confidence_pp": 8.904109589041099,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1354,7 +1354,7 @@
       "confidence_gain_vs_baseline_pp": -2.8491436100131717,
       "lift_over_confidence_pp": 18.181818181818183,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1370,7 +1370,7 @@
       "confidence_gain_vs_baseline_pp": -2.539929015084291,
       "lift_over_confidence_pp": 22.44897959183674,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1386,7 +1386,7 @@
       "confidence_gain_vs_baseline_pp": 4.637416693113295,
       "lift_over_confidence_pp": 4.379562043795627,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1402,7 +1402,7 @@
       "confidence_gain_vs_baseline_pp": 7.020851818988461,
       "lift_over_confidence_pp": 7.142857142857151,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1418,7 +1418,7 @@
       "confidence_gain_vs_baseline_pp": 9.849351639969484,
       "lift_over_confidence_pp": 20.73365231259968,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "meditron3-8b",
@@ -1434,7 +1434,7 @@
       "confidence_gain_vs_baseline_pp": 1.3996426444312093,
       "lift_over_confidence_pp": 5.47945205479452,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "meditron3-8b",
@@ -1450,7 +1450,7 @@
       "confidence_gain_vs_baseline_pp": -0.6820119352088649,
       "lift_over_confidence_pp": 11.250242671325955,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "meditron3-8b",
@@ -1466,7 +1466,7 @@
       "confidence_gain_vs_baseline_pp": -10.76604554865424,
       "lift_over_confidence_pp": 33.33333333333333,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "meditron3-8b",
@@ -1482,7 +1482,7 @@
       "confidence_gain_vs_baseline_pp": 6.155565834104227,
       "lift_over_confidence_pp": 1.0816878412163944,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "meditron3-8b",
@@ -1498,7 +1498,7 @@
       "confidence_gain_vs_baseline_pp": 8.529281277728485,
       "lift_over_confidence_pp": 10.746851932262269,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "meditron3-8b",
@@ -1514,7 +1514,7 @@
       "confidence_gain_vs_baseline_pp": 11.413043478260876,
       "lift_over_confidence_pp": 12.89855072463768,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "phi4-14b",
@@ -1530,7 +1530,7 @@
       "confidence_gain_vs_baseline_pp": 0.287723785166244,
       "lift_over_confidence_pp": 3.2952069716775556,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "phi4-14b",
@@ -1546,7 +1546,7 @@
       "confidence_gain_vs_baseline_pp": -3.315217391304348,
       "lift_over_confidence_pp": 21.250000000000004,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "phi4-14b",
@@ -1562,7 +1562,7 @@
       "confidence_gain_vs_baseline_pp": -10.694249649368864,
       "lift_over_confidence_pp": 42.44482173174873,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "phi4-14b",
@@ -1578,7 +1578,7 @@
       "confidence_gain_vs_baseline_pp": 4.331103678929771,
       "lift_over_confidence_pp": 8.461538461538465,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "phi4-14b",
@@ -1594,7 +1594,7 @@
       "confidence_gain_vs_baseline_pp": 1.345755693581785,
       "lift_over_confidence_pp": 19.047619047619047,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "phi4-14b",
@@ -1610,7 +1610,7 @@
       "confidence_gain_vs_baseline_pp": 7.608695652173914,
       "lift_over_confidence_pp": 16.89723320158103,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-4b",
@@ -1626,7 +1626,7 @@
       "confidence_gain_vs_baseline_pp": -5.847826086956526,
       "lift_over_confidence_pp": 8.827586206896553,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-4b",
@@ -1642,7 +1642,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 25.27777777777778,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-4b",
@@ -1658,7 +1658,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 32.62471655328798,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-4b",
@@ -1674,7 +1674,7 @@
       "confidence_gain_vs_baseline_pp": 4.612220916568743,
       "lift_over_confidence_pp": 1.199669056811914,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-4b",
@@ -1690,7 +1690,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 9.698879551820728,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-4b",
@@ -1706,7 +1706,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 20.355093256814914,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-8b",
@@ -1722,7 +1722,7 @@
       "confidence_gain_vs_baseline_pp": 0.8245877061469287,
       "lift_over_confidence_pp": 7.586206896551728,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-8b",
@@ -1738,7 +1738,7 @@
       "confidence_gain_vs_baseline_pp": 2.4089306698002355,
       "lift_over_confidence_pp": 15.087903437418005,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-8b",
@@ -1754,7 +1754,7 @@
       "confidence_gain_vs_baseline_pp": 5.422288855572221,
       "lift_over_confidence_pp": 18.00766283524904,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-8b",
@@ -1770,7 +1770,7 @@
       "confidence_gain_vs_baseline_pp": 5.31400966183575,
       "lift_over_confidence_pp": 4.768842268842266,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-8b",
@@ -1786,7 +1786,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 8.079916552996869,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3-8b",
@@ -1802,7 +1802,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 12.952956134774308,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1818,7 +1818,7 @@
       "confidence_gain_vs_baseline_pp": -2.6499523960647364,
       "lift_over_confidence_pp": 11.494957374491555,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1834,7 +1834,7 @@
       "confidence_gain_vs_baseline_pp": 2.5496511003757383,
       "lift_over_confidence_pp": 24.967511371020144,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1850,7 +1850,7 @@
       "confidence_gain_vs_baseline_pp": 11.692126909518219,
       "lift_over_confidence_pp": 27.027027027027028,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1866,7 +1866,7 @@
       "confidence_gain_vs_baseline_pp": 10.144927536231885,
       "lift_over_confidence_pp": -2.376385336743392,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1882,7 +1882,7 @@
       "confidence_gain_vs_baseline_pp": 14.596273291925465,
       "lift_over_confidence_pp": 2.6484751203852297,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -1898,7 +1898,7 @@
       "confidence_gain_vs_baseline_pp": 17.294685990338166,
       "lift_over_confidence_pp": 2.063492063492056,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_0p75.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1914,7 +1914,7 @@
       "confidence_gain_vs_baseline_pp": -2.117691154422785,
       "lift_over_confidence_pp": 8.965517241379311,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1930,7 +1930,7 @@
       "confidence_gain_vs_baseline_pp": -2.3011100832562414,
       "lift_over_confidence_pp": 19.148936170212767,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1946,7 +1946,7 @@
       "confidence_gain_vs_baseline_pp": -1.670692431561993,
       "lift_over_confidence_pp": 24.074074074074076,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1962,7 +1962,7 @@
       "confidence_gain_vs_baseline_pp": 4.1666666666666625,
       "lift_over_confidence_pp": 5.072463768115942,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1978,7 +1978,7 @@
       "confidence_gain_vs_baseline_pp": 7.94314381270903,
       "lift_over_confidence_pp": 5.769230769230771,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "llama3.1-8b",
@@ -1994,7 +1994,7 @@
       "confidence_gain_vs_baseline_pp": 20.923913043478258,
       "lift_over_confidence_pp": -6.25,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/llama3.1-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "meditron3-8b",
@@ -2010,7 +2010,7 @@
       "confidence_gain_vs_baseline_pp": 1.818988464951199,
       "lift_over_confidence_pp": 5.4421768707483,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "meditron3-8b",
@@ -2026,7 +2026,7 @@
       "confidence_gain_vs_baseline_pp": -0.9565217391304337,
       "lift_over_confidence_pp": 9.000000000000002,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "meditron3-8b",
@@ -2042,7 +2042,7 @@
       "confidence_gain_vs_baseline_pp": -6.599378881987578,
       "lift_over_confidence_pp": 19.642857142857146,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "meditron3-8b",
@@ -2058,7 +2058,7 @@
       "confidence_gain_vs_baseline_pp": 6.155565834104227,
       "lift_over_confidence_pp": 0.0,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "meditron3-8b",
@@ -2074,7 +2074,7 @@
       "confidence_gain_vs_baseline_pp": 8.529281277728485,
       "lift_over_confidence_pp": -2.0408163265306145,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "meditron3-8b",
@@ -2090,7 +2090,7 @@
       "confidence_gain_vs_baseline_pp": 9.549689440993792,
       "lift_over_confidence_pp": -0.7936507936507908,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/meditron3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "phi4-14b",
@@ -2106,7 +2106,7 @@
       "confidence_gain_vs_baseline_pp": 0.287723785166244,
       "lift_over_confidence_pp": 5.14705882352941,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "phi4-14b",
@@ -2122,7 +2122,7 @@
       "confidence_gain_vs_baseline_pp": -3.1018027571580067,
       "lift_over_confidence_pp": 19.51219512195122,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "phi4-14b",
@@ -2138,7 +2138,7 @@
       "confidence_gain_vs_baseline_pp": -10.694249649368864,
       "lift_over_confidence_pp": 28.35125448028674,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "phi4-14b",
@@ -2154,7 +2154,7 @@
       "confidence_gain_vs_baseline_pp": 3.838315217391308,
       "lift_over_confidence_pp": 7.8125,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "phi4-14b",
@@ -2170,7 +2170,7 @@
       "confidence_gain_vs_baseline_pp": 1.7519181585677779,
       "lift_over_confidence_pp": 16.470588235294116,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "phi4-14b",
@@ -2186,7 +2186,7 @@
       "confidence_gain_vs_baseline_pp": 7.608695652173914,
       "lift_over_confidence_pp": 12.87625418060201,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/phi4-14b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-4b",
@@ -2202,7 +2202,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 10.416666666666668,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-4b",
@@ -2218,7 +2218,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 25.992063492063487,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-4b",
@@ -2234,7 +2234,7 @@
       "confidence_gain_vs_baseline_pp": -7.125603864734304,
       "lift_over_confidence_pp": 34.02777777777778,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-4b",
@@ -2250,7 +2250,7 @@
       "confidence_gain_vs_baseline_pp": 4.612220916568743,
       "lift_over_confidence_pp": 1.3513513513513487,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-4b",
@@ -2266,7 +2266,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 11.81850789096126,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-4b",
@@ -2282,7 +2282,7 @@
       "confidence_gain_vs_baseline_pp": 5.466751918158574,
       "lift_over_confidence_pp": 20.413165266106436,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-4b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-8b",
@@ -2298,7 +2298,7 @@
       "confidence_gain_vs_baseline_pp": 1.6805427073697254,
       "lift_over_confidence_pp": 9.219858156028371,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-8b",
@@ -2314,7 +2314,7 @@
       "confidence_gain_vs_baseline_pp": 2.4089306698002355,
       "lift_over_confidence_pp": 14.117029651010238,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-8b",
@@ -2330,7 +2330,7 @@
       "confidence_gain_vs_baseline_pp": 5.422288855572221,
       "lift_over_confidence_pp": 13.814790717848613,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-8b",
@@ -2346,7 +2346,7 @@
       "confidence_gain_vs_baseline_pp": 5.31400966183575,
       "lift_over_confidence_pp": 4.768842268842266,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-8b",
@@ -2362,7 +2362,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 8.81542699724518,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3-8b",
@@ -2378,7 +2378,7 @@
       "confidence_gain_vs_baseline_pp": 8.493532159540074,
       "lift_over_confidence_pp": 12.91524874412574,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3-8b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2394,7 +2394,7 @@
       "confidence_gain_vs_baseline_pp": -2.6499523960647364,
       "lift_over_confidence_pp": 10.390400353904,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2410,7 +2410,7 @@
       "confidence_gain_vs_baseline_pp": 3.04347826086957,
       "lift_over_confidence_pp": 25.33333333333333,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2426,7 +2426,7 @@
       "confidence_gain_vs_baseline_pp": 11.692126909518219,
       "lift_over_confidence_pp": 25.637065637065636,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2442,7 +2442,7 @@
       "confidence_gain_vs_baseline_pp": 10.144927536231885,
       "lift_over_confidence_pp": -0.8145562255368666,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2458,7 +2458,7 @@
       "confidence_gain_vs_baseline_pp": 16.05731225296443,
       "lift_over_confidence_pp": -7.108879492600428,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
     },
     {
       "model": "qwen3.5-9b",
@@ -2474,7 +2474,7 @@
       "confidence_gain_vs_baseline_pp": 17.294685990338166,
       "lift_over_confidence_pp": -6.666666666666677,
       "source": "rerun",
-      "source_path": "/home/yikunh2/Uncertainty/results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
+      "source_path": "results/alpha_sensitivity/qwen3.5-9b_conflict_prediction_alpha_1.json"
     }
   ],
   "mean_rows": [
