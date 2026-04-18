@@ -1,0 +1,370 @@
+{
+  "qwen3-8b": {
+    "model": "qwen3-8b",
+    "n_samples": 920,
+    "accuracy": {
+      "NC": 0.8554347826086957,
+      "CC": 0.9521739130434783,
+      "IC": 0.5619565217391305,
+      "CIC": 0.9108695652173913,
+      "ICC": 0.758695652173913
+    },
+    "calibration": {
+      "NC": {
+        "ece": 0.151082179857337,
+        "brier": 0.1454845446607341,
+        "auroc": 0.45772468018839985,
+        "confidence_at_error": 0.9746681156015038
+      },
+      "CC": {
+        "ece": 0.038472316576086935,
+        "brier": 0.0397731495940167,
+        "auroc": 0.8438797218762972,
+        "confidence_at_error": 0.8868408203125
+      },
+      "IC": {
+        "ece": 0.3948788850203805,
+        "brier": 0.4050524926703909,
+        "auroc": 0.5416532678028904,
+        "confidence_at_error": 0.9484457389888338
+      },
+      "CIC": {
+        "ece": 0.0743599269701087,
+        "brier": 0.0798616191615229,
+        "auroc": 0.8030880726468363,
+        "confidence_at_error": 0.9215177210365854
+      },
+      "ICC": {
+        "ece": 0.21314113451086952,
+        "brier": 0.22517653185388317,
+        "auroc": 0.6461995663285062,
+        "confidence_at_error": 0.9513698268581081
+      }
+    },
+    "uncertainty_summary": {
+      "NC": {
+        "margin_mean": 9.531254144559187,
+        "margin_std": 8.408801424160472,
+        "margin_median": 6.390688486911712,
+        "entropy_mean": 0.11752494679653666,
+        "entropy_std": 0.18087928491155003,
+        "entropy_median": 0.012579397326544662,
+        "confidence_mean": 0.9577705715013587,
+        "confidence_std": 0.08037550241278674,
+        "confidence_median": 0.998291015625
+      },
+      "CC": {
+        "margin_mean": 16.27723823563061,
+        "margin_std": 8.687691398493735,
+        "margin_median": 14.237635535441026,
+        "entropy_mean": 0.026082730731940357,
+        "entropy_std": 0.10196322779280387,
+        "entropy_median": 0.0,
+        "confidence_mean": 0.9895592730978261,
+        "confidence_std": 0.05159433490777129,
+        "confidence_median": 1.0
+      },
+      "IC": {
+        "margin_mean": 9.790160108082688,
+        "margin_std": 7.373293643793879,
+        "margin_median": 8.750203087854526,
+        "entropy_mean": 0.10068932101389101,
+        "entropy_std": 0.19430837744388368,
+        "entropy_median": 0.0,
+        "confidence_mean": 0.9568354067595108,
+        "confidence_std": 0.10154726941136562,
+        "confidence_median": 1.0
+      },
+      "CIC": {
+        "margin_mean": 13.737089197858763,
+        "margin_std": 8.256487668025983,
+        "margin_median": 12.446911463218786,
+        "entropy_mean": 0.04531649152927513,
+        "entropy_std": 0.1344808664224325,
+        "entropy_median": 0.0,
+        "confidence_mean": 0.981693699048913,
+        "confidence_std": 0.06622977440608344,
+        "confidence_median": 1.0
+      },
+      "ICC": {
+        "margin_mean": 10.491113366199746,
+        "margin_std": 7.130955649475605,
+        "margin_median": 9.468494443582085,
+        "entropy_mean": 0.07044933108406261,
+        "entropy_std": 0.15880642271347728,
+        "entropy_median": 0.0,
+        "confidence_mean": 0.9718367866847826,
+        "confidence_std": 0.0809219492653606,
+        "confidence_median": 1.0
+      }
+    },
+    "conflict_sensitivity": {
+      "IC_vs_CIC": {
+        "logit_margin": {
+          "ic_mean": 9.790160108082688,
+          "conflict_mean": 13.737089197858763,
+          "mean_shift": 3.9469290897760745,
+          "wilcoxon_stat": 111831.5,
+          "wilcoxon_p": 1.0287855674945306e-27
+        },
+        "entropy": {
+          "ic_mean": 0.10068932101389101,
+          "conflict_mean": 0.04531649152927513,
+          "mean_shift": -0.055372829484615894,
+          "wilcoxon_stat": 43726.5,
+          "wilcoxon_p": 4.8520601692940074e-17
+        },
+        "confidence": {
+          "ic_mean": 0.9568354067595108,
+          "conflict_mean": 0.981693699048913,
+          "mean_shift": 0.024858292289402173,
+          "wilcoxon_stat": 43869.5,
+          "wilcoxon_p": 6.717298370155094e-17
+        }
+      },
+      "IC_vs_ICC": {
+        "logit_margin": {
+          "ic_mean": 9.790160108082688,
+          "conflict_mean": 10.491113366199746,
+          "mean_shift": 0.7009532581170571,
+          "wilcoxon_stat": 171647.5,
+          "wilcoxon_p": 0.014102369682186807
+        },
+        "entropy": {
+          "ic_mean": 0.10068932101389101,
+          "conflict_mean": 0.07044933108406261,
+          "mean_shift": -0.030239989929828428,
+          "wilcoxon_stat": 61986.0,
+          "wilcoxon_p": 0.0002818830844808879
+        },
+        "confidence": {
+          "ic_mean": 0.9568354067595108,
+          "conflict_mean": 0.9718367866847826,
+          "mean_shift": 0.01500137992527174,
+          "wilcoxon_stat": 62541.0,
+          "wilcoxon_p": 0.0004969276436504755
+        }
+      }
+    },
+    "order_effects": {
+      "margin_shift_mean": -3.2459758316590173,
+      "margin_wilcoxon_stat": 87077.0,
+      "margin_wilcoxon_p": 2.376779366820259e-38,
+      "prediction_flip_rate": 0.16521739130434782,
+      "confidence_shift_mean": -0.009856912364130435,
+      "confidence_wilcoxon_stat": 35618.5,
+      "confidence_wilcoxon_p": 4.267503956563448e-08
+    },
+    "abstention": {
+      "NC": {
+        "auc_risk_coverage": 0.05063711510823732,
+        "coverage_at_10pct_risk": 0.0,
+        "coverage_at_5pct_risk": 0.0
+      },
+      "CC": {
+        "auc_risk_coverage": 0.0024079719116508833,
+        "coverage_at_10pct_risk": 1.0,
+        "coverage_at_5pct_risk": 1.0
+      },
+      "IC": {
+        "auc_risk_coverage": 0.1160794381050674,
+        "coverage_at_10pct_risk": 0.0,
+        "coverage_at_5pct_risk": 0.0
+      },
+      "CIC": {
+        "auc_risk_coverage": 0.009087059063280462,
+        "coverage_at_10pct_risk": 1.0,
+        "coverage_at_5pct_risk": 0.0
+      },
+      "ICC": {
+        "auc_risk_coverage": 0.04810794895774929,
+        "coverage_at_10pct_risk": 0.0,
+        "coverage_at_5pct_risk": 0.0
+      }
+    }
+  },
+  "qwen3.5-9b": {
+    "model": "qwen3.5-9b",
+    "n_samples": 920,
+    "accuracy": {
+      "NC": 0.8717391304347826,
+      "CC": 0.9445652173913044,
+      "IC": 0.3652173913043478,
+      "CIC": 0.8358695652173913,
+      "ICC": 0.8152173913043478
+    },
+    "calibration": {
+      "NC": {
+        "ece": 0.05857676630434784,
+        "brier": 0.08413742728855299,
+        "auroc": 0.8698116995646477,
+        "confidence_at_error": 0.6724708686440678
+      },
+      "CC": {
+        "ece": 0.03328804347826086,
+        "brier": 0.040290699834408965,
+        "auroc": 0.9051535458832555,
+        "confidence_at_error": 0.7044270833333334
+      },
+      "IC": {
+        "ece": 0.43539402173913044,
+        "brier": 0.44239269754161004,
+        "auroc": 0.5135788690476191,
+        "confidence_at_error": 0.8011959546232876
+      },
+      "CIC": {
+        "ece": 0.02129755434782608,
+        "brier": 0.11833290431810461,
+        "auroc": 0.7833817032526976,
+        "confidence_at_error": 0.6902421357615894
+      },
+      "ICC": {
+        "ece": 0.03468070652173917,
+        "brier": 0.12463070413340693,
+        "auroc": 0.7992862745098039,
+        "confidence_at_error": 0.6832720588235294
+      }
+    },
+    "uncertainty_summary": {
+      "NC": {
+        "margin_mean": 2.102076857892513,
+        "margin_std": 1.2631528884803955,
+        "margin_median": 1.9983737185837984,
+        "entropy_mean": 0.37758403152995984,
+        "entropy_std": 0.1920099763638595,
+        "entropy_median": 0.3690985623094607,
+        "confidence_mean": 0.8427055027173913,
+        "confidence_std": 0.12309890835930005,
+        "confidence_median": 0.87890625
+      },
+      "CC": {
+        "margin_mean": 3.2753915527224526,
+        "margin_std": 1.5019526685433304,
+        "margin_median": 3.2474823367539782,
+        "entropy_mean": 0.21733167047786275,
+        "entropy_std": 0.1869047613985543,
+        "entropy_median": 0.16495319147247772,
+        "confidence_mean": 0.9207880434782608,
+        "confidence_std": 0.10654306139106849,
+        "confidence_median": 0.9609375
+      },
+      "IC": {
+        "margin_mean": 1.7860245020254795,
+        "margin_std": 1.2739612829946154,
+        "margin_median": 1.4975199962258638,
+        "entropy_mean": 0.43155380321184655,
+        "entropy_std": 0.20289604822950194,
+        "entropy_median": 0.47679933533296,
+        "confidence_mean": 0.8006114130434783,
+        "confidence_std": 0.14229891540133388,
+        "confidence_median": 0.81640625
+      },
+      "CIC": {
+        "margin_mean": 2.0134467612013407,
+        "margin_std": 1.4379173536653738,
+        "margin_median": 1.7469089030571405,
+        "entropy_mean": 0.39854746290801907,
+        "entropy_std": 0.21885057909070368,
+        "entropy_median": 0.4199891719868435,
+        "confidence_mean": 0.8163722826086957,
+        "confidence_std": 0.14887819454413195,
+        "confidence_median": 0.8515625
+      },
+      "ICC": {
+        "margin_mean": 2.0042309768392075,
+        "margin_std": 1.4754549552099112,
+        "margin_median": 1.7469089030571405,
+        "entropy_mean": 0.40287883147203146,
+        "entropy_std": 0.21914184294769004,
+        "entropy_median": 0.4199891719868435,
+        "confidence_mean": 0.8135954483695652,
+        "confidence_std": 0.1488390708248138,
+        "confidence_median": 0.8515625
+      }
+    },
+    "conflict_sensitivity": {
+      "IC_vs_CIC": {
+        "logit_margin": {
+          "ic_mean": 1.7860245020254795,
+          "conflict_mean": 2.0134467612013407,
+          "mean_shift": 0.22742225917586123,
+          "wilcoxon_stat": 172982.0,
+          "wilcoxon_p": 0.00025394008310714337
+        },
+        "entropy": {
+          "ic_mean": 0.43155380321184655,
+          "conflict_mean": 0.39854746290801907,
+          "mean_shift": -0.03300634030382747,
+          "wilcoxon_stat": 173113.5,
+          "wilcoxon_p": 0.0004910030516890136
+        },
+        "confidence": {
+          "ic_mean": 0.8006114130434783,
+          "conflict_mean": 0.8163722826086957,
+          "mean_shift": 0.01576086956521739,
+          "wilcoxon_stat": 178576.5,
+          "wilcoxon_p": 0.00546426007305682
+        }
+      },
+      "IC_vs_ICC": {
+        "logit_margin": {
+          "ic_mean": 1.7860245020254795,
+          "conflict_mean": 2.0042309768392075,
+          "mean_shift": 0.21820647481372812,
+          "wilcoxon_stat": 176953.0,
+          "wilcoxon_p": 0.002355580277843325
+        },
+        "entropy": {
+          "ic_mean": 0.43155380321184655,
+          "conflict_mean": 0.40287883147203146,
+          "mean_shift": -0.028674971739815005,
+          "wilcoxon_stat": 175615.5,
+          "wilcoxon_p": 0.0031748502702497058
+        },
+        "confidence": {
+          "ic_mean": 0.8006114130434783,
+          "conflict_mean": 0.8135954483695652,
+          "mean_shift": 0.012984035326086956,
+          "wilcoxon_stat": 181346.0,
+          "wilcoxon_p": 0.027572637257212693
+        }
+      }
+    },
+    "order_effects": {
+      "margin_shift_mean": -0.009215784362133082,
+      "margin_wilcoxon_stat": 188003.0,
+      "margin_wilcoxon_p": 0.66969042484029,
+      "prediction_flip_rate": 0.11413043478260869,
+      "confidence_shift_mean": -0.002776834239130435,
+      "confidence_wilcoxon_stat": 178550.5,
+      "confidence_wilcoxon_p": 0.6203695435841918
+    },
+    "abstention": {
+      "NC": {
+        "auc_risk_coverage": 0.02993651606601245,
+        "coverage_at_10pct_risk": 0.9315217391304348,
+        "coverage_at_5pct_risk": 0.7815217391304348
+      },
+      "CC": {
+        "auc_risk_coverage": 0.008143196536762718,
+        "coverage_at_10pct_risk": 1.0,
+        "coverage_at_5pct_risk": 0.9836956521739131
+      },
+      "IC": {
+        "auc_risk_coverage": 0.5712746838156619,
+        "coverage_at_10pct_risk": 0.0,
+        "coverage_at_5pct_risk": 0.0
+      },
+      "CIC": {
+        "auc_risk_coverage": 0.058867590376837975,
+        "coverage_at_10pct_risk": 0.7282608695652174,
+        "coverage_at_5pct_risk": 0.45869565217391306
+      },
+      "ICC": {
+        "auc_risk_coverage": 0.06540938167741024,
+        "coverage_at_10pct_risk": 0.7217391304347827,
+        "coverage_at_5pct_risk": 0.5108695652173914
+      }
+    }
+  }
+}
