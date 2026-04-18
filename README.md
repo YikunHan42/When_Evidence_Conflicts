@@ -1,6 +1,6 @@
 # When Evidence Conflicts: Uncertainty and Order Effects in Retrieval-Augmented Biomedical Question Answering
 
-This repo integrates the code and cached outputs needed for the paper's `HealthContradict` results and visualizations.
+This repo integrates the code and cached outputs needed for the paper's results and visualizations.
 
 ## Coverage
 
